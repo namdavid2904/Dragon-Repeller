@@ -67,9 +67,3 @@ Discover a hidden game by following specific instructions in the "easter egg" lo
 ## Contributing
 
 Feel free to contribute to the game by suggesting improvements, fixing bugs, or adding new features. Fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This game is licensed under the [MIT License](LICENSE).
-
-Enjoy playing Dragon Repeller! May you emerge victorious in your quest to repel the dragon and save the town!
