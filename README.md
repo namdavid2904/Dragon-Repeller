@@ -1,4 +1,3 @@
-# monsterinc
 # Dragon Repeller - RPG Game
 
 Welcome to Dragon Repeller, a simple RPG game where you must defeat the dragon that is terrorizing the town. Use your wits, weapons, and gold to navigate through different locations, fight monsters, and ultimately emerge victorious.
